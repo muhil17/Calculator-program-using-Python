@@ -4,13 +4,13 @@
  So kindly support and follow my account. Thanks in advance.
  
  As this is my first code, I have uploaded a Calculator using Python.
-I have uploaded 2 types of Calculator code.
+ I have uploaded 2 types of Calculator code.
 
-1)Simple Calculator in one Expression
+1)Simple Calculator in one Expression:
    
    Through this simple calculator you can perform five operations using only 2 inputs.
    The five operations are 
-   1)Addition 2) Subtraction 3)Multiplication 4) Division 5) Modulo
+   1) Addition 2) Subtraction 3) Multiplication 4) Division 5) Modulo
    
    It will ask for "Enter the expression (Ex:2+3) (+,-,*,/,%) (0 for Exit) :" .
    You can enter any digit number followed by an operator ( only use 5 operators mentioned above) and then a number again.
@@ -25,15 +25,15 @@ I have uploaded 2 types of Calculator code.
 2) Calculator 8 operations with n inputs
 
       This calculator is an advanced one. Because here you can perform 8 operations with any number of inputs.
-      For better understanding, comment (lines starting with #) is made in the code.
+      For better understanding, comment (lines starting with #) is attached to the code.
       
       It will open with "-----Welcome-----  Enter 1 to use multiple operators like (3+5*3/4) or Enter 2 to perform any one operation or Enter 0 to Exit :"
       If you are going to use multiple operators press 1 and enter the inputs with multiple operators as an expression. And you will get the output.
       
-      Or if you want to use only one operation press 2. Adn select the choice of operation you want to perform.The 8 operations are
-      1)Addition 2) Subtraction 3)Multiplication 4) Division 5) Modulo 6) Gratest of all numbers 7)Smallest of all numbers 8)Mean of all numbers.
+      Or if you want to use only one operation press 2. Andper select the choice of operation you want to perform.The 8 operations are
+      1)Addition 2) Subtraction 3)Multiplication 4) Division 5) Modulo 6) Greatest of all numbers 7)Smallest of all numbers 8)Mean of all numbers.
       
-      Then enter the number of inputs you want to perfrom operation. Then enter the values one by one. You can add both int and float values.
+      Then enter the number of inputs you want to perform operation. Then enter the values one by one. You can add both int and float values.
       If your input is apart from int and float you will get message as "Please enter a valid integer or float value".
       
       After entering the inputs you will get the answer like "The answer is 27 Thank you for using this calculator..."
